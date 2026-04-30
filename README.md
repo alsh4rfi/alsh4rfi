@@ -38,7 +38,7 @@ $ cat /home/abdullah/about.md
 ```yaml
 location:    Oman 🇴🇲
 role:        Founder @ Devora
-education:   B.Sc. Computer Science · Sultan Qaboos University (2025–2026)
+education:   B.Sc. Computer Science · Sultan Qaboos University (2026)
 focus:       [ offensive_security, web_apps, automation, product ]
 currently:   scaling Devora 🚀
 fun_fact:    "I started a CTF club, then we won the championship."
