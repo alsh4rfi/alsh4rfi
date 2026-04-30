@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1E5FFF&center=true&vCenter=true&width=780&lines=%3E+whoami;%3E+Founder+%40+Devora;%3E+Penetration+Tester+%40+NeoSec+AI;%3E+IT+Officer+%40+Synergy+Investments+Oman;%3E+1st+Place+%E2%80%94+HUSN+CTF;%3E+Breaking+systems+to+build+better+ones._" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1E5FFF&center=true&vCenter=true&width=820&lines=%3E+whoami;%3E+Founder+%40+Devora;%3E+Penetration+Tester+%40+NeoSec+AI;%3E+IT+Officer+%40+Synergy+Investments+Oman;%3E+Breaking+systems+to+build+better+ones._" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,26 +31,27 @@
 $ cat /home/abdullah/about.md
 ```
 
-> Founder of **[Devora](https://devora.om)** — building products with security baked in from the first commit.
-> By day a **Penetration Tester @ NeoSec AI** and **IT Officer @ Synergy Investments Oman**;
-> by night a builder. I founded the **Cyber Security Club at Sultan Qaboos University**, led the
-> team that took **1st place at HUSN CTF**, and grind on HackTheBox, TryHackMe, and ImmersiveLabs.
+> **Founder of [Devora](https://devora.om)**, **Penetration Tester at NeoSec AI**,
+> and **IT Officer at Synergy Investments Oman.**
+>
+> I build products with security baked in from the first commit, and I break
+> other people's products for a living so they can do the same. My work spans
+> offensive security engagements, enterprise IT operations, and shipping a
+> security-first product company of my own.
 
 ```yaml
-location:    Oman 🇴🇲
 roles:
   - Founder            @ Devora
   - Penetration Tester @ NeoSec AI
   - IT Officer         @ Synergy Investments Oman
-education:   B.Sc. Computer Science · Sultan Qaboos University (2026)
-focus:       [ offensive_security, web_pentesting, red_team, product ]
+based_in:    Oman 🇴🇲
+focus:       [ offensive_security, web_pentesting, red_team, product_engineering ]
 currently:   scaling Devora 🚀
-fun_fact:    "I started a CTF club, then we won the championship."
 ```
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## &nbsp;`~/roles/`
+## &nbsp;`~/experience/`
 
 <table>
 <tr>
@@ -92,7 +93,7 @@ fun_fact:    "I started a CTF club, then we won the championship."
 </a>
 
 **Devora** is the company I founded — engineered with a security-first mindset from day one.
-Every system I ship goes through the same lens I bring to a pentest engagement: *what's the weakest link, and how do we harden it before anyone else finds it?*
+Every system we ship goes through the same lens I bring to a pentest engagement: *what's the weakest link, and how do we harden it before anyone else finds it?*
 
 - 🛡️  Security-first architecture
 - ⚡  Modern web stacks, fast iteration
@@ -104,17 +105,48 @@ Every system I ship goes through the same lens I bring to a pentest engagement: 
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
+## &nbsp;`~/services/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Penetration Testing
+> Web application, network, and API pentesting.
+> Real-world adversarial testing with clear, actionable reports.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Security Assessments
+> Configuration reviews, vulnerability assessments, and
+> hardening guidance across cloud and on-prem environments.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Secure Product Engineering
+> Through Devora — building production web platforms
+> with security woven into the architecture, not bolted on.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ IT Operations
+> Infrastructure, identity, and operational security
+> for organizations that need it done right.
+
+</td>
+</tr>
+</table>
+
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+
 ## &nbsp;`~/skills/`
 
 <div align="center">
-
-#### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1e5fff?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Penetration Testing Arsenal
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
@@ -124,6 +156,14 @@ Every system I ship goes through the same lens I bring to a pentest engagement: 
 ![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-1e5fff?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-1e5fff?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -136,75 +176,6 @@ Every system I ship goes through the same lens I bring to a pentest engagement: 
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## &nbsp;`~/achievements/`
-
-| 🏆 | Achievement |
-|---|---|
-| 🥇 | **HUSN CTF Competition** — 1st Place (Team Captain) |
-| 🎯 | **Cyber Safe Competition** — Top 20 |
-| 🧠 | **OCR Programming Competition** — 6th Place |
-| 💻 | **OCPC Programming Competition** — Participant |
-| 🏛️ | **Founder & President** — SQU Cyber Security Club |
-| 🚀 | **Founder** — Devora |
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-## &nbsp;`~/projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🅓 Devora
-> The company I founded. Security-first product engineering.
-> **Stack:** Modern web · Cloud · Hardened auth
-> 🌐 [devora.om](https://devora.om)
-
-</td>
-<td width="50%" valign="top">
-
-### 🅢 Smart Parking System
-> Real-time parking availability platform.
-> **Stack:** Java · MySQL
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🅡 Smart Reservation System
-> Appointment booking & schedule management.
-> **Stack:** Java · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-### 🅟 Password Auditing Tool
-> Pentest helper for password strength auditing.
-> **Stack:** Python
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🅔 Mail-Flow Stress Tester
-> Email infrastructure testing utility.
-> **Stack:** Python
-
-</td>
-<td width="50%" valign="top">
-
-### 🅕 FitnessLabs
-> Web platform offering fitness resources & tools.
-> **Stack:** HTML · PHP · MySQL
-
-</td>
-</tr>
-</table>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
 ## &nbsp;`~/stats/`
 
 <div align="center">
@@ -213,10 +184,6 @@ Every system I ship goes through the same lens I bring to a pentest engagement: 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alsh4rfi&theme=tokyonight&hide_border=true&background=000000&stroke=1e5fff&ring=1e5fff&fire=ffffff&currStreakLabel=1e5fff" />
 
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsh4rfi&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=1e5fff&text_color=ffffff&langs_count=8" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alsh4rfi&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
