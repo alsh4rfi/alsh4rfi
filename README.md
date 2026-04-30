@@ -208,14 +208,8 @@ Every system we ship goes through the same lens I bring to a pentest engagement:
 <a href="https://devora.om">
   <img src="https://img.shields.io/badge/Devora-1e5fff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
 </a>
-<a href="mailto:abdullahalsharafi0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+96894687681">
-  <img src="https://img.shields.io/badge/+968_94687681-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://github.com/alsh4rfi">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/abdullah-alsharafi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
