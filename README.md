@@ -92,12 +92,11 @@ currently:   scaling Devora 🚀
   <img align="right" src="https://img.shields.io/badge/visit-devora.om-1e5fff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
 </a>
 
-**Devora** is the company I founded — engineered with a security-first mindset from day one.
-Every system we ship goes through the same lens I bring to a pentest engagement: *what's the weakest link, and how do we harden it before anyone else finds it?*
+**Devora** specializes in **Web Development**, **Software Development**, and **AI Automation** — crafting digital solutions that drive innovation.
 
-- 🛡️  Security-first architecture
-- ⚡  Modern web stacks, fast iteration
-- 🤝  Real partnerships with the businesses we build for
+- 🌐  **Web Development** — modern, responsive web platforms built to scale
+- 💻  **Software Development** — custom software engineered around your workflow
+- 🤖  **AI Automation** — intelligent systems that take repetitive work off the table
 
 🌐 **[devora.om](https://devora.om)**
 
@@ -105,38 +104,34 @@ Every system we ship goes through the same lens I bring to a pentest engagement:
 
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
-## &nbsp;`~/services/`
+## &nbsp;`~/what-i-do/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Penetration Testing
-> Web application, network, and API pentesting.
-> Real-world adversarial testing with clear, actionable reports.
+### 🌐 Web Development
+> Modern, responsive web platforms — shipped fast, built to scale. *(via Devora)*
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Security Assessments
-> Configuration reviews, vulnerability assessments, and
-> hardening guidance across cloud and on-prem environments.
+### 💻 Software Development
+> Custom software engineered around real workflows, not generic templates. *(via Devora)*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Secure Product Engineering
-> Through Devora — building production web platforms
-> with security woven into the architecture, not bolted on.
+### 🤖 AI Automation
+> Intelligent systems that take repetitive work off the table. *(via Devora)*
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ IT Operations
-> Infrastructure, identity, and operational security
-> for organizations that need it done right.
+### 🎯 Penetration Testing
+> Web application, network, and API pentesting with clear, actionable reports. *(via NeoSec AI)*
 
 </td>
 </tr>
