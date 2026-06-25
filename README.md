@@ -22,70 +22,6 @@
 <a href="https://devora.om"><img src="https://img.shields.io/badge/DEVORA-FOUNDER-1e5fff?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=white" alt="Devora Founder" /></a>
 
 </div>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-## &nbsp;`~/about.md`
-
-```bash
-$ cat /home/abdullah/about.md
-```
-
-> **Founder of [Devora](https://devora.om)**, **Penetration Tester at NeoSec AI**,
-> and **IT Officer at Synergy Investments Oman.**
->
-> I build products with security baked in from the first commit, and I break
-> other people's products for a living so they can do the same. My work spans
-> offensive security engagements, enterprise IT operations, and shipping a
-> security-first product company of my own.
-
-```yaml
-roles:
-  - Founder            @ Devora
-  - Penetration Tester @ NeoSec AI
-  - IT Officer         @ Synergy Investments Oman
-based_in:    Oman 🇴🇲
-focus:       [ offensive_security, web_pentesting, red_team, product_engineering ]
-currently:   scaling Devora 🚀
-```
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-## &nbsp;`~/experience/`
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🅓 &nbsp;Devora
-**Founder**
-<br/>
-<sub>Security-first product engineering. The company I built.</sub>
-<br/><br/>
-<a href="https://devora.om"><img src="https://img.shields.io/badge/devora.om-1e5fff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🛡️ &nbsp;NeoSec AI
-**Penetration Tester**
-<br/>
-<sub>Offensive security engagements — finding what attackers would, before they do.</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🏢 &nbsp;Synergy Investments
-**IT Officer**
-<br/>
-<sub>Operational IT & infrastructure for Synergy Investments Oman.</sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
 ## &nbsp;`~/founder/devora.md`
 
 <a href="https://devora.om">
@@ -94,9 +30,9 @@ currently:   scaling Devora 🚀
 
 **Devora** specializes in **Web Development**, **Software Development**, and **AI Automation** — crafting digital solutions that drive innovation.
 
-- 🌐  **Web Development** — modern, responsive web platforms built to scale
-- 💻  **Software Development** — custom software engineered around your workflow
-- 🤖  **AI Automation** — intelligent systems that take repetitive work off the table
+- **Web Development** — modern, responsive web platforms built to scale
+- **Software Development** — custom software engineered around your workflow
+- **AI Automation** — intelligent systems that take repetitive work off the table
 
 🌐 **[devora.om](https://devora.om)**
 
@@ -110,13 +46,13 @@ currently:   scaling Devora 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### Web Development
 > Modern, responsive web platforms — shipped fast, built to scale. *(via Devora)*
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Software Development
+### Software Development
 > Custom software engineered around real workflows, not generic templates. *(via Devora)*
 
 </td>
@@ -124,13 +60,13 @@ currently:   scaling Devora 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Automation
+### AI Automation
 > Intelligent systems that take repetitive work off the table. *(via Devora)*
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Penetration Testing
+### Penetration Testing
 > Web application, network, and API pentesting with clear, actionable reports. *(via NeoSec AI)*
 
 </td>
@@ -168,33 +104,6 @@ currently:   scaling Devora 🚀
 ![Docker](https://img.shields.io/badge/Docker-1e5fff?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-## &nbsp;`~/stats/`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alsh4rfi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=1e5fff&icon_color=ffffff&text_color=ffffff&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=alsh4rfi&theme=tokyonight&hide_border=true&background=000000&stroke=1e5fff&ring=1e5fff&fire=ffffff&currStreakLabel=1e5fff" />
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsh4rfi&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=1e5fff&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-## &nbsp;`~/contribution-graph/`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alsh4rfi/alsh4rfi/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alsh4rfi&theme=react-dark&hide_border=true&bg_color=000000&color=1e5fff&line=ffffff&point=1e5fff&area=true" width="98%" />
-
-</div>
-
-<!-- ─────────────────────────────────────────────────────────────────────── -->
 
 ## &nbsp;`~/connect/`
 
