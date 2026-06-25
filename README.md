@@ -24,10 +24,6 @@
 </div>
 ## &nbsp;`~/founder/devora.md`
 
-<a href="https://devora.om">
-  <img align="right" src="https://img.shields.io/badge/visit-devora.om-1e5fff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
-</a>
-
 **Devora** specializes in **Web Development**, **Software Development**, and **AI Automation** — crafting digital solutions that drive innovation.
 
 - **Web Development** — modern, responsive web platforms built to scale
