@@ -18,7 +18,6 @@ I build software and break it. My work spans web and software development, AI au
 
 ## Roles
 
-- **Founder, Devora** — Web development, software development, and AI automation.
 - **Penetration Tester, NeoSec AI** — Web application, network, and API security assessments.
 - **IT Officer, Synergy Investments Oman** — IT operations and internal systems.
 
@@ -63,7 +62,6 @@ Web application, network, and API testing delivered with clear, actionable repor
 
 ## Connect
 
-- Website: [devora.om](https://devora.om)
 - LinkedIn: [abdullah-alsharafi](https://www.linkedin.com/in/abdullah-alsharafi/)
 
 ---
